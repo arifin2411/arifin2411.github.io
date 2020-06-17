@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["63:2F:18:FD:D4:A8:B9:40:1B:83:EE:AD:70:B1:D3:63:22:5A:1A:C9:2C:98:D6:07:02:F1:22:3C:B8:F0:89:6E"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.akseleran.crowdfund",
+    "sha256_cert_fingerprints":
+    ["63:2F:18:FD:D4:A8:B9:40:1B:83:EE:AD:70:B1:D3:63:22:5A:1A:C9:2C:98:D6:07:02:F1:22:3C:B8:F0:89:6E"]
+  }
 }]
